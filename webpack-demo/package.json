@@ -8,7 +8,6 @@
     "start": "webpack serve --open",
     "build": "webpack",
     "dev": "webpack --mode=development"
-    // "dev": "webpack serve --open --mode=development" 
   },
   "keywords": [],
   "author": "",
